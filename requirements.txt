@@ -1,0 +1,8 @@
+Flask==2.0.1
+requests>=2.26.0
+numpy
+pytest
+allure-pytest
+openpyxl
+selenium
+python_version==3.12.0
